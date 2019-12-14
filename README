@@ -1,0 +1,43 @@
+1. Mô tả bài toán
+ - Bài toán áp dụng cho trung tâm ngoại ngữ Yên Chi
+ - Áp dụng vào việc quản lý trung tâm như 
+  + Quản lý giáo viên, tính lương.
+  + Quản lý học viên, tính học phí.
+  + Giới thiệu, quảng bá trung tâm, các khóa học, tuyển dụng nhân sự.
+  + Quản lý khóa học, lịch học.
+  + Chức năng theo dõi lịch học, lịch công tác, kết quả của học viên, giáo viên.
+2. Mục đích của bài toán
+ - Đầu vào:
+  + Thông tin khách hàng: 
+    •	Học viên
+      + Thông tin cá nhân 
+      + Trình độ học vấn
+      + Khóa học cần đăng kí
+    •	Giáo viên
+      + Thông tin cá nhân
+      + Trình độ học vấn
+ - Đầu ra:
+    +	Thông tin lịch học, lịch giảng dạy của học viên, giáo viên.
+    +	Tiền học phí, tiền lương của học viên, giáo viên.
+3. Các bước cài đặt và một số công cụ hỗ trợ
+ - Các bước cài đặt:
+    + Clone reponsive về máy.
+    + Đảm bảo máy đã có Xampp.
+    + Đưa project vừa tải về vào thư mục htdocs trong Xampp.
+    + Bật Xampp.
+    + Qua trình duyệt gõ localhost:/cổng -> trỏ đến thư mục của project
+ - Công cụ hỗ trợ:
+    + Xampp.
+4. Nội dung bài toán
+ - Các chức năng đã làm được:
+  + Quảng bá trung tâm
+  + Đăng nhập vào trang admin
+  + Các chức năng thêm xóa sửa tìm kiếm khóa học, lịch học, học viên, giáo viên....
+5. Hướng phát triển của bài toán.
+  + Gửi thông báo về mail cho từng thành viên trong trung tâm.
+  + Tính lương theo bảng chấm công.
+  + Thống kê theo tuần, tháng, quý để đưa ra những chương trình khuyến mãi phù hợp.
+  + Biểu đồ kinh doanh theo tuần, tháng, quý.
+  + Triển khai hệ thống test đầu vào và đầu ra trên hệ thống.
+
+
